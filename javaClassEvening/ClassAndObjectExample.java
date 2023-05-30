@@ -44,11 +44,11 @@ public class ClassAndObjectExample {
 		
 		ClassAndObjectExample obj = new ClassAndObjectExample();
 		
-//		obj.a=10;
-//		obj.b=20;
+		obj.a=10;
+		obj.b=20;
 		
-//		System.out.println(obj.a=10);
-//		System.out.println(obj.b=20);
+		System.out.println(obj.a);
+		System.out.println(obj.b);
 		
 		
 		
