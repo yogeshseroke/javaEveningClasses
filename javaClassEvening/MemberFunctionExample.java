@@ -44,6 +44,8 @@ public class MemberFunctionExample {
 		return "return type example";
 	}
 	
+	//HW => add,sub,mul,mod,div,si
+	
 	//non-static memberFunction...
 	
 	
