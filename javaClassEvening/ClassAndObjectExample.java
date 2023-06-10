@@ -57,7 +57,7 @@ public class ClassAndObjectExample {
 		obj.m1();// for public
 //		obj.m2(); for private
 		obj.m3();//for default
-		obj.m4();//for protected
+//		obj.m4();//for protected
 	}
 
 }
